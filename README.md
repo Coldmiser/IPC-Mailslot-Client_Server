@@ -1,4 +1,4 @@
-# IPC-Mailslot-Client_Server
+# IPC-Mailslot-Client/Server
 IPC-Mailslot Client/Server Example in C#
 
 ## Using a Mailslot for IPC
